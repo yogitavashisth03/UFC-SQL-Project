@@ -9,7 +9,7 @@ The goal is to strengthen SQL skills by applying **aggregation, joins, subquerie
 
 ## 📂 Project Structure
 ├── ufc_sql_project.sql # All SQL queries for analysis
-├── data/ # (Optional) Dataset or source reference
+├── data/ Dataset or source reference
 └── README.md # Project documentation
 
 ---
@@ -45,10 +45,9 @@ Some example analyses included in the project:
 ## 📌 How to Use
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/yourusername/ufc-sql-analysis.git
-## ▶️ How to Run
+   git clone https://github.com/yogitavashisth03/ufc-sql-analysis.git
+   
 2. Import the dataset into your SQL environment (PostgreSQL/MySQL/SQLite).  
-   *(Dataset is not included here. If you want to replicate, use a UFC fight dataset or create mock data.)*  
 
 3. Run queries from `ufc_sql_project.sql`.  
 
